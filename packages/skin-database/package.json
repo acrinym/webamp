@@ -16,7 +16,7 @@
     "dataloader": "^2.0.0",
     "discord.js": "^12.5.3",
     "dotenv": "^16.0.0",
-    "fast-xml-parser": "^4.2.2",
+    "fast-xml-parser": "^4.5.5",
     "graphql": "^16.8.1",
     "graphql-http": "^1.22.1",
     "graphql-yoga": "^5.10.10",
