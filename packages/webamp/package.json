@@ -141,7 +141,7 @@
     "fscreen": "^1.0.2",
     "invariant": "^2.2.3",
     "jszip": "^3.10.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "milkdrop-preset-converter-aws": "^0.1.6",
     "music-metadata": "^11.6.0",
     "music-metadata-browser": "^0.6.1",
